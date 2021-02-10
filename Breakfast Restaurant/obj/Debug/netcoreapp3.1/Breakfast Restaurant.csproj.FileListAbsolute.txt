@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\bin\Debug\netcoreapp3.1\Breakfast Restaurant.exe
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\bin\Debug\netcoreapp3.1\Breakfast Restaurant.deps.json
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\bin\Debug\netcoreapp3.1\Breakfast Restaurant.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\bin\Debug\netcoreapp3.1\Breakfast Restaurant.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\bin\Debug\netcoreapp3.1\Breakfast Restaurant.dll
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\bin\Debug\netcoreapp3.1\Breakfast Restaurant.pdb
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.dll
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.pdb
+C:\Users\Huy Le\source\repos\Breakfast Restaurant\Breakfast Restaurant\obj\Debug\netcoreapp3.1\Breakfast Restaurant.genruntimeconfig.cache
